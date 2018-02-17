@@ -1,4 +1,4 @@
-### Moved to git-repository: https://github.com/denji/awesome-http-benchmark
+### By HackersZone
 
 Tools
 --
